@@ -18,9 +18,7 @@ A Chrome extension that extracts information from your resume and intelligently 
 
 1. Download or clone this repository:
 
-   `bash
-   git clone https://github.com/yourusername/resume-autofill.git
-   `bash
+   `git clone https://github.com/yourusername/resume-autofill.git`
 
 2. Open Chrome and go to `chrome://extensions/`
 
