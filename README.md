@@ -1,4 +1,4 @@
-# Resume Autofill Assistant
+# Resume Autofill
 
 A Chrome extension that extracts information from your resume and intelligently autofills online job application forms, speeding up the job search process.
 
@@ -32,7 +32,7 @@ A Chrome extension that extracts information from your resume and intelligently 
 
 ## Project Structure
 
-`resume-autofill-assistant/`  
+`resume-autofill/`  
 `│`  
 `├── icons/`              # Extension icons (16x, 48x, 128x)  
 `├── popup.html`          # UI for uploading resume  
